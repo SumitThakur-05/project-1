@@ -1,4 +1,4 @@
-let name = "sumit, rahul, sidhant, avijit";
+let name = "sumit, rahul";
 console.log(name);
 let vaR = "nan";
 //. new feature added
